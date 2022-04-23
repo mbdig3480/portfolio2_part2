@@ -1,7 +1,7 @@
 {
   "name": "hello-mbdig3480",
   "version": "0.1.0",
-  "homepage": "https://mbdig3480.github.io/portfolio2_part2",
+  "homepage": "https://mbdig3480.github.io/portfolio2_part2/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
